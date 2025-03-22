@@ -1,8 +1,8 @@
 class Networkstat < Formula
   desc "CLI tool to monitor network interfaces with pretty emoji output"
   homepage "https://github.com/mohamedelleuch777/NetworkStat"
-  url "https://github.com/mohamedelleuch777/NetworkStat/archive/refs/tags/v1.3.19.tar.gz"
-  sha256 "5bad19cc1716a8a1b0014fe2c8cf4c757a0b8fb2df8e2e7b4b0274c6d4da9215"
+  url "https://github.com/mohamedelleuch777/NetworkStat/archive/refs/tags/v1.3.25.tar.gz"
+  sha256 "1f507e5ccce1907d3e709d68435566486272c7af78c2b4cd67475d01a30b999a"
   license "Apache-2.0"
 
   depends_on "python@3.11"
