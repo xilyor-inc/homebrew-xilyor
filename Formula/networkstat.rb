@@ -1,3 +1,4 @@
+require "language/python"
 require "language/python/virtualenv"
 
 class Networkstat < Formula
